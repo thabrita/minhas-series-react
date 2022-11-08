@@ -10,7 +10,7 @@ function App() {
       <Header title="Minhas séries favoritas"/>
       <Bio />
       <Cards/>
-      <Footer description="Feito com ♡ por Thaís Brito. E todos os direitos são reservados."/>
+      <Footer id="footer-name" description="Feito com ♡ por Thaís Brito. E todos os direitos são reservados."/>
     </div>
   );
 }

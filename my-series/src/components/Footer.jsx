@@ -1,5 +1,5 @@
 function Footer({description}) {
-    return <p>{description}</p>;
+    return <p class="name">{description}</p>;
 }
 
 export default Footer;
